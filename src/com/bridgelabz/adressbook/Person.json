@@ -1,0 +1,24 @@
+[
+  {
+    "firstName":"Pranita",
+    "lastName":"Jadhav",
+    "address":{
+     "city":"Mumbai",
+     "state":"Maharashtra",
+     "zip":400009
+     },
+     "phoneNo":9096832860
+  },
+  
+  {
+    "firstName":"Piyush",
+    "lastName":"Jadhav",
+    "address":{
+     "city":"Maharashtra",
+     "state":"Maharashtra",
+     "zip":431136
+     },
+     "phoneNo":9096832860
+  }
+  
+]
